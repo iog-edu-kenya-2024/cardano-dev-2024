@@ -53,7 +53,6 @@ A local Docker instance or online environment provided by the instructors.
 
 ## How to get help
 
-- [Discord for this course](https://discord.gg/XEd3hbCZ)
 - [Haskell tag stackoverflow](https://stackoverflow.com/questions/tagged/haskell)
 - [IOG Technical Community](https://discord.com/invite/inputoutput)
 
