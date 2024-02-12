@@ -63,13 +63,13 @@ A local Docker instance or online environment provided by the instructors.
 | **Week 01** |                                                          |                                                        |                                                     |
 | Lecture 000 | Welcome                                                  |                                                        |                                                     |
 | Lecture 010 | Introduction to Cryptocurrencies                         |                                                        |                                                     |
-| Lecture 020 | An Overview of Haskell                                   |     [A2]()      |                                                     |
-| Lecture 030 | Datatypes & Functions                                    |     [A3]()      |                                                     |
-| Lecture 040 | Polymorphism & Type Classes                              |     --                                                 |                                                     |
-| Lecture 050 | Higher-Order Functions                                   |     [A5]()      |                                                     |
-|             | Packaging & Tools                                        |     --                                                 |                                                     |
-| Lecture 060 | IO                                                       |     [A6]() / T1 |                                                     |
-| **Week 02** |  **TO BE RELEASED**                                                        |   **[W1]()**    |                                                     |
+| Lecture 020 | An Overview of Haskell                                   |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
+| Lecture 030 | Datatypes & Functions                                    |                                                        |                                                     |
+| Lecture 040 | Polymorphism & Type Classes                              |                                                        |                                                     |
+| Lecture 050 | Higher-Order Functions                                   |                                                        |                                                     |
+|             | Packaging & Tools                                        |                                                        |                                                     |
+| Lecture 060 | IO                                                       |                                                        |                                                     |
+| **Week 02** |  **TO BE RELEASED**                                      |                                                        |                                                     |
 
 
 ### Assignments
