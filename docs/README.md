@@ -56,7 +56,7 @@ A local Docker instance or online environment provided by the instructors.
 - [Haskell tag stackoverflow](https://stackoverflow.com/questions/tagged/haskell)
 - [IOG Technical Community](https://discord.com/invite/inputoutput)
 
-## Lectures ([recordings](https://www.youtube.com/playlist?list=PLo0zObhRR4XV9qM0rQV6G5evaAyhyl9xx))
+## Lectures 
 
 |      ID     | Lecture and slides                                       | Assignments                                            | Projects                                            |
 |-------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
