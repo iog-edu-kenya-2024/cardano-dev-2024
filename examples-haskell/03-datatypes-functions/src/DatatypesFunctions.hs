@@ -1,5 +1,64 @@
 module DatatypesFunctions where
 
+import           Prelude hiding (not, (||))
+
+not :: Bool -> Bool
+not False = True
+not True  = False
+
+(||) :: Bool -> Bool -> Bool
+(||) False c = c
+(||) True  _ = True
+
+(||||) :: Bool -> Bool -> Bool
+(||||) b False = b
+(||||) _ True  = True
+
+(|||) :: Bool -> Bool -> Bool
+(|||) False False = False
+(|||) False True  = True
+(|||) True  False = True
+(|||) True  True  = True
+
+ifThenElse :: Bool -> a -> a -> a
+ifThenElse True  t _ = t
+ifThenElse False _ e = e
+
+fromMaybe :: a -> Maybe a -> a
+fromMaybe def Nothing  = def
+fromMaybe _   (Just a) = a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{-
 import           Prelude hiding (elem, filter, length, lookup, not, reverse,
                           (++), (||))
 
@@ -203,3 +262,4 @@ eval (Neg x)        = - (eval x)
 eval (IfZero x y z)
     | eval x == 0   = eval y
     | otherwise     = eval z
+    -}
