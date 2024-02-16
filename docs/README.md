@@ -64,7 +64,7 @@ A local Docker instance or online environment provided by the instructors.
 | Lecture 000 | Welcome                                                  |                                                        |                                                     |
 | Lecture 010 | Introduction to Cryptocurrencies                         |                                                        |                                                     |
 | Lecture 020 | An Overview of Haskell                                   |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
-| Lecture 030 | Datatypes & Functions                                    |                                                        |                                                     |
+| Lecture 030 | Datatypes & Functions                                    |     [A2](https://classroom.github.com/a/I3gkUEN1)      |                                                     |
 | Lecture 040 | Polymorphism & Type Classes                              |                                                        |                                                     |
 | Lecture 050 | Higher-Order Functions                                   |                                                        |                                                     |
 |             | Packaging & Tools                                        |                                                        |                                                     |
