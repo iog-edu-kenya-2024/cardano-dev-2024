@@ -42,7 +42,7 @@ To go through this course, you will need:
 
 **If you want to run the examples in this repo, choose the one you prefer:**
 - Remote development environment: [Install the GitPod extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension), and click the new "Gitpod" button at the top of the repo.
-- Local development environment inside Docker: Make sure you have the latest version of [Docker Desktop](https://www.docker.com/products/docker-desktop/) and [VSCode](https://code.visualstudio.com/). Open the `examples-haskell` folder in VSCode (not the root of the repo). You'll get a notification about a Dev Container config file. Click on "Reopen in Container".
+- Local development environment inside Docker: Make sure you have the latest version of [Docker Desktop](https://www.docker.com/products/docker-desktop/) and [VSCode](https://code.visualstudio.com/) with the [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension. Open the `examples-haskell` folder in VSCode (not the root of the repo). You'll get a notification about a Dev Container config file. Click on "Reopen in Container".
 - Local development environment directly on your computer using GHCup: Follow [these instructions](https://www.youtube.com/watch?v=hSN5mxITv0A&list=PLNEK_Ejlx3x1D9Vq5kqeC3ZDEP7in4dqb&index=13) (all platforms).
 
 ### Marlowe
