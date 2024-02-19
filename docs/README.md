@@ -61,15 +61,20 @@ A local Docker instance or online environment provided by the instructors.
 |      ID     | Lecture and slides                                       | Assignments                                            | Projects                                            |
 |-------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------|
 | **Week 01** |                                                          |                                                        |                                                     |
-| Lecture 000 | Welcome                                                  |                                                        |                                                     |
-| Lecture 010 | Introduction to Cryptocurrencies                         |                                                        |                                                     |
-| Lecture 020 | An Overview of Haskell                                   |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
-| Lecture 030 | Datatypes & Functions                                    |     [A2](https://classroom.github.com/a/I3gkUEN1)      |                                                     |
+| Lecture 000 | [Welcome][1]                                             |                                                        |                                                     |
+| Lecture 010 | [Introduction to Cryptocurrencies][2]                    |                                                        |                                                     |
+| Lecture 020 | [An Overview of Haskell][3]                              |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
+| Lecture 030 | [Datatypes & Functions][4]                               |     [A2](https://classroom.github.com/a/I3gkUEN1)      |                                                     |
 | Lecture 040 | Polymorphism & Type Classes                              |                                                        |                                                     |
 | Lecture 050 | Higher-Order Functions                                   |                                                        |                                                     |
 |             | Packaging & Tools                                        |                                                        |                                                     |
 | Lecture 060 | IO                                                       |                                                        |                                                     |
 | **Week 02** |  **TO BE RELEASED**                                      |                                                        |                                                     |
+
+[1]:   ../lectures/00-welcome.pdf
+[2]:   ../lectures/01-intro-cryptocurrencies.pdf
+[3]:   ../lectures/02-overview-haskell.pdf
+[4]:   ../lectures/03-datatypes-functions.pdf
 
 
 ### Assignments
