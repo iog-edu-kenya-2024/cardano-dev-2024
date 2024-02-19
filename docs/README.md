@@ -65,7 +65,7 @@ A local Docker instance or online environment provided by the instructors.
 | Lecture 010 | [Introduction to Cryptocurrencies][2]                    |                                                        |                                                     |
 | Lecture 020 | [An Overview of Haskell][3]                              |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
 | Lecture 030 | [Datatypes & Functions][4]                               |     [A2](https://classroom.github.com/a/I3gkUEN1)      |                                                     |
-| Lecture 040 | Polymorphism & Type Classes                              |                                                        |                                                     |
+| Lecture 040 | [Polymorphism & Type Classes][5]                         |                                                        |                                                     |
 | Lecture 050 | Higher-Order Functions                                   |                                                        |                                                     |
 |             | Packaging & Tools                                        |                                                        |                                                     |
 | Lecture 060 | IO                                                       |                                                        |                                                     |
@@ -75,6 +75,7 @@ A local Docker instance or online environment provided by the instructors.
 [2]:   ../lectures/01-intro-cryptocurrencies.pdf
 [3]:   ../lectures/02-overview-haskell.pdf
 [4]:   ../lectures/03-datatypes-functions.pdf
+[5]:   ../lectures/04-polymorphism-type-classes.pdf
 
 
 ### Assignments
