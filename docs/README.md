@@ -66,8 +66,8 @@ A local Docker instance or online environment provided by the instructors.
 | Lecture 020 | [An Overview of Haskell][3]                              |     [A1](https://classroom.github.com/a/-1HBIQg-)      |                                                     |
 | Lecture 030 | [Datatypes & Functions][4]                               |     [A2](https://classroom.github.com/a/I3gkUEN1)      |                                                     |
 | Lecture 040 | [Polymorphism & Type Classes][5]                         |                                                        |                                                     |
-| Lecture 050 | Higher-Order Functions                                   |                                                        |                                                     |
-|             | Packaging & Tools                                        |                                                        |                                                     |
+| Lecture 050 | [Higher-Order Functions][6]                              |     [A3](https://classroom.github.com/a/krH3m18A)      |                                                     |
+|             | [Packaging & Tools][7]                                   |                                                        |                                                     |
 | Lecture 060 | IO                                                       |                                                        |                                                     |
 | **Week 02** |  **TO BE RELEASED**                                      |                                                        |                                                     |
 
@@ -76,7 +76,8 @@ A local Docker instance or online environment provided by the instructors.
 [3]:   ../lectures/02-overview-haskell.pdf
 [4]:   ../lectures/03-datatypes-functions.pdf
 [5]:   ../lectures/04-polymorphism-type-classes.pdf
-
+[6]:   ../lectures/05-higher-order-functions.pdf
+[7]:   ../lectures/06-packaging-and-tools.pdf
 
 ### Assignments
 
