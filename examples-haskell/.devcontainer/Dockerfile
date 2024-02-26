@@ -55,7 +55,7 @@ RUN ghcup install hls ${HLS_VERSION}
 # Update cabal
 RUN cabal update
 
-# Add cabal to PATH
-RUN echo "export PATH=$PATH:/root/.cabal/bin" >> ~/.bashrc
+RUN cabal install stylish-haskell
 
-#RUN cabal install stylish-haskell
+# Add cabal to PATH
+RUN echo "export PATH=$PATH:/root/.cabal/bin:/root/.local/bin" >> ~/.bashrc
