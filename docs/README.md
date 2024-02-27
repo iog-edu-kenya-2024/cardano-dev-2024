@@ -68,16 +68,18 @@ A local Docker instance or online environment provided by the instructors.
 | Lecture 040 | [Polymorphism & Type Classes][5]                         |                                                        |                                                     |
 | Lecture 050 | [Higher-Order Functions][6]                              |     [A3](https://classroom.github.com/a/krH3m18A)      |                                                     |
 |             | [Packaging & Tools][7]                                   |                                                        |                                                     |
-| Lecture 060 | IO                                                       |                                                        |                                                     |
-| **Week 02** |  **TO BE RELEASED**                                      |                                                        |                                                     |
+| Lecture 060 | [IO][8]                                                  |                                                        |                                                     |
+| Lecture 070 | Testing                                                  |                                                        |                                                     |
+|             |  **TO BE RELEASED**                                      |                                                        |                                                     |
 
 [1]:   ../lectures/00-welcome.pdf
-[2]:   ../lectures/01-intro-cryptocurrencies.pdf
+[2]:   ../lectures/01-intro-cryptocurrencies. 
 [3]:   ../lectures/02-overview-haskell.pdf
 [4]:   ../lectures/03-datatypes-functions.pdf
 [5]:   ../lectures/04-polymorphism-type-classes.pdf
 [6]:   ../lectures/05-higher-order-functions.pdf
 [7]:   ../lectures/06-packaging-and-tools.pdf
+[8]:   ../lectures/07-io.pdf
 
 ### Assignments
 
