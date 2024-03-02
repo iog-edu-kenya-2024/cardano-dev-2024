@@ -68,8 +68,10 @@ A local Docker instance or online environment provided by the instructors.
 | Lecture 040 | [Polymorphism & Type Classes][5]                         |                                                        |                                                     |
 | Lecture 050 | [Higher-Order Functions][6]                              |     [A3](https://classroom.github.com/a/krH3m18A)      |                                                     |
 |             | [Packaging & Tools][7]                                   |                                                        |                                                     |
-| Lecture 060 | [IO][8]                                                  |                                                        |                                                     |
-| Lecture 070 | Testing                                                  |                                                        |                                                     |
+| Lecture 060 | [IO][8]                                                  |     [A4](https://classroom.github.com/a/pG_suRdh)      |                                                     |
+| Lecture 070 | [Testing][9]                                             |                                                        |                                                     |
+| Lecture 080 | [Abstraction Patterns][10]                               |                                                        |                                                     |
+|             |  Work on weekly assignments                              |                                                        |      [W01](https://classroom.github.com/a/d9nzxyTm) |
 |             |  **TO BE RELEASED**                                      |                                                        |                                                     |
 
 [1]:   ../lectures/00-welcome.pdf
@@ -80,6 +82,8 @@ A local Docker instance or online environment provided by the instructors.
 [6]:   ../lectures/05-higher-order-functions.pdf
 [7]:   ../lectures/06-packaging-and-tools.pdf
 [8]:   ../lectures/07-io.pdf
+[9]:   ../lectures/08-testing.pdf
+[10]:   ../lectures/09-abstraction-patterns.pdf
 
 ### Assignments
 
