@@ -75,7 +75,7 @@ A local Docker instance or online environment provided by the instructors.
 |             |  **TO BE RELEASED**                                      |                                                        |                                                     |
 
 [1]:   ../lectures/00-welcome.pdf
-[2]:   ../lectures/01-intro-cryptocurrencies. 
+[2]:   ../lectures/01-intro-cryptocurrencies.pdf
 [3]:   ../lectures/02-overview-haskell.pdf
 [4]:   ../lectures/03-datatypes-functions.pdf
 [5]:   ../lectures/04-polymorphism-type-classes.pdf
