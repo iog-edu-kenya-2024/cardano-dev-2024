@@ -1,0 +1,15 @@
+{
+  "name": "@anastasia-labs/lucid-cardano-fork",
+  "version": "0.10.8-rc.3",
+  "license": "MIT",
+  "author": "Alessandro Konrad",
+  "description": "Lucid fork , which allows to export portable type annotations",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastasia-labs/lucid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anastasia-labs/lucid/issues"
+  },
+  "homepage": "https://github.com/anastasia-labs/lucid#readme"
+}

@@ -1,0 +1,14 @@
+name = "brunjlar/hello-aiken"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'brunjlar/hello-aiken'"
+
+[repository]
+user = "brunjlar"
+project = "hello-aiken"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "1.7.0"
+source = "github"

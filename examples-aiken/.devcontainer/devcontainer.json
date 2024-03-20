@@ -1,0 +1,26 @@
+{
+    "name": "hello-aiken",
+    "shutdownAction": "stopContainer",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".",
+        "args": {
+            "USER_ID": "${localEnv:USER_ID}",
+            "GROUP_ID": "${localEnv:GROUP_ID}"
+        }
+    },
+    "runArgs": [
+        "--env-file",
+        ".devcontainer/.env"
+    ],
+    "remoteUser": "user",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "txpipe.aiken",
+                "denoland.vscode-deno"
+            ],
+            "settings": {}
+        }
+    }
+}
