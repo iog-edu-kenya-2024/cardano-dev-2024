@@ -48,5 +48,5 @@ RUN curl -fsSL https://deno.land/install.sh | sh &&\
   echo "PATH=\"\$DENO_INSTALL/bin:\$PATH\"" >> /home/user/.bashrc &&\
   rm -rf /var/lib/apt/lists/*
 
-RUN echo "alias server-docs='python3 -m http.server -d /workspaces/haskell-and-cryptocurrencies/Kenya-2024/examples-aiken/docs/'" >> /home/user/.bashrc
+RUN echo "alias server-docs='python3 -m http.server -d /workspaces/cardano-dev-2024/examples-aiken/docs/'" >> /home/user/.bashrc
 RUN echo "alias run-script='deno run --allow-read --allow-write --allow-net --allow-env'" >> /home/user/.bashrc
